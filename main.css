@@ -1,0 +1,60 @@
+.well{
+  opacity: 0.8;  
+}
+
+.txt {
+  color: rgb(237,67,55);
+  font-size:30px;
+}
+
+.row {
+  color: rgb(123,114,114);
+   font-family: Raleway, sans-serif;
+   font-size: 20px;
+}
+.circle {
+  font-family: Raleway, sans-serif;
+  font-size: 50px;
+  padding: 40px;
+  color: white;
+  width: 250px;
+  height: 250px;
+  position: relative;
+  display: table-cell;
+  border-radius: 50%;
+  text-align: center;
+  background: rgb(237,67,55);
+}
+
+.bk{
+  margin-top: 20px;
+  background: no-repeat center center
+    fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+
+.title {
+    font-family: Raleway, sans-serif;
+    font-size: 40px;
+    padding-right: 50px;
+    padding-left: 30px;
+    line-height: 1.45;
+    position: relative;
+    color: white;
+}
+
+#temp, #tempScale {
+  font-family: Raleway, sans-serif;
+  text-shadow: 3px 4px 5px grey;
+  font-size: 60px;
+  font-weight: bold;
+  color:  rgb(237,67,55);
+}
+
+#tempScale:hover {
+  color: white;
+  
+}
